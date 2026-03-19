@@ -84,17 +84,26 @@ System principle:
 
 ## Conceptual Workflow
 [Sample Intake]
-↓
-[Reference Matching] ←→ [Reference Library]
-↓
-[Primary Identification]
-↓
-[Secondary Validation]
-↓
-[Decision Framework]
-↓
-[Report Output]
 
+↓
+
+[Reference Matching] ←→ [Reference Library]
+
+↓
+
+[Primary Identification]
+
+↓
+
+[Secondary Validation]
+
+↓
+
+[Decision Framework]
+
+↓
+
+[Report Output]
 
 ---
 
